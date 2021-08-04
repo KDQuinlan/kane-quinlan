@@ -11,7 +11,7 @@ const Home = () => {
                 <p>
                     Welcome to my personal website. You can use this to check out
                     <Link to="/about" className="navButton"> about me</Link>, <Link to="/projects" className="navButton">my projects</Link>,
-                    <Link to="/CV" className="navButton">my CV</Link> and <Link to="/contact" className="navButton">contact me</Link>.
+                    <Link to="/CV" className="navButton"> my CV</Link> and <Link to="/contact" className="navButton">contact me</Link>.
                     If you have any UX or code improvement suggestions, please contact me. You can see the source code
                     <a href="google.com" className="navButton"> here!</a>
                 </p>
