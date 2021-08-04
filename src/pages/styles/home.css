@@ -1,0 +1,27 @@
+.pagesContainer{
+    margin-top: 100px;
+    background-color: white;
+    border: 1px solid hsla(0,0%,62.7%,.3);
+}
+
+.pageTitleContainer{
+    border-bottom: 1px solid hsla(0,0%,62.7%,.3);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: .10em;
+}
+
+.pageContentContainer{
+    display: flex;
+    justify-content: center; 
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(150, 84, 172);
+}

@@ -1,0 +1,30 @@
+.titleContainer{
+    width: 10%;
+    border-right: 1px solid hsla(0,0%,62.7%,.3);
+    transform: translate(0%, 10%);
+}
+
+.listContainer{
+    width: 20%;
+    height: 50px;
+}
+
+.navList{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: "Raleway",Helvetica,sans-serif;
+    letter-spacing: .25em;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: hsla(0,0%,62.7%);
+    transform: translate(0%, 60%);
+    
+}
+
+.navButton{
+    text-decoration: none;
+    color: inherit;
+}
